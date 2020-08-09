@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardMarkup, ReplyKeyboardRemove, KeyboardButt
 from pymongo import MongoClient
 
 #get telegram token from config.py
-TOKEN =  '1154880610:AAG-E5JwaSqHF707HI7F7Y_kPvcavnanxl8'
+TOKEN =  'BOT TOKEN'
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
